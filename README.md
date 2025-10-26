@@ -102,4 +102,4 @@ textblob
 wordcloud
 ```
 ## Author
-Armandeep Singh Dhillon 
+Mridul Mahajan
