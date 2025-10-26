@@ -43,8 +43,8 @@ For text generation, the Markov chain model’s word transitions are visualized 
 Clone the repository and navigate into it:
 
 ```bash
-git clone https://github.com/dhillonarman/standup-nlp-portfolio.git
-cd standup-nlp-portfolio
+git clone https://github.com/mridulmahajan04/NLP-Analysis-.git
+cd NLP-Analysis-
 ```
 Install Python 3.8+ if it’s not already installed.
 
